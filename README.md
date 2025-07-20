@@ -125,7 +125,17 @@ Logout securely
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![login](https://github.com/manapanda1/Foodie/blob/main/web/login.png?raw=true)
+
+![signup](https://github.com/manapanda1/Foodie/blob/main/web/signup.png?raw=true)
+
+![home](https://github.com/manapanda1/Foodie/blob/main/web/home.png?raw=true)
+
+### DATABASE
+
+![db_table](https://github.com/manapanda1/Foodie/blob/main/web/db_tables.png?raw=true)
+
+![login_table](https://github.com/manapanda1/Foodie/blob/main/web/login_table.png?raw=true)
 
 
 ## Authors
